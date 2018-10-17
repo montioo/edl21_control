@@ -2,7 +2,7 @@
 
 This video demonstrates the use of the EDL21-Control-App. The App ueses the iPhones flashlight and the powermeters optical sensor to communicate. The App simplifies the unlocking of the powermeter with a 4-digit pincode and also allows the user to easily control the different functions of the powermeter. The manufacturer intendet the code to be entered with a flashlight, which confused many users.
 
-### Demo video on youtube (length: 50 seconds)
+### Demo video on YouTube (length: 50 seconds)
 [![App usage example](http://img.youtube.com/vi/KlCSea4wwSQ/0.jpg)](http://www.youtube.com/watch?v=KlCSea4wwSQ)
 
 
